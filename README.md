@@ -9,3 +9,6 @@ I plan on later resubmitting using a random forest model.
 Without much tweaking at all, the TensorFlow model evaluated to about 80% accuracy.  
 The Kaggle score was about 79%.  
 So, at least our model was as accurate as we anticipated when evaluating data it had never seen.
+
+### Links
+Kaggle Profile: https://www.kaggle.com/jamesdowns
